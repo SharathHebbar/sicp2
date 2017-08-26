@@ -2,8 +2,9 @@ Type following command in your Raspberry Pi Terminal (Press Ctrl+Alt+T):
 
 ----------
 cd sicp2/Barcode
+----------
 sudo python barcode.py
-----------------
+----------
 
 This will activate the barcode scanner.
 
